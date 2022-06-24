@@ -39,6 +39,6 @@
 *     Also used SQL to verify the ratings count:
 ![ratings_count_sql](https://github.com/lykkelig/Movies-ETL/blob/main/Resources/ratings_sql.png)
 *     The count of movies also matched the rubric:
-![movies_count_sql]https://github.com/lykkelig/Movies-ETL/blob/main/Resources/movies.png
+![movies_count_sql](https://github.com/lykkelig/Movies-ETL/blob/main/Resources/movies.png)
 
 * What a FUN project!!!
