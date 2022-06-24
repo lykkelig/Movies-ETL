@@ -33,3 +33,12 @@
 ![movies_df](https://github.com/lykkelig/Movies-ETL/blob/main/Images/deliverable3_movies_df.png)
 ![movies_with_ratings]https://github.com/lykkelig/Movies-ETL/blob/main/Images/deliverable3_movies_with_ratings_df.png
 * The movie database was successfully created!
+* Deliverable 4, the output matched the rubric.
+*     The count of ratings matched the rubric:
+![ratings_writes](https://github.com/lykkelig/Movies-ETL/blob/main/Resources/ratings.png)
+*     Also used SQL to verify the ratings count:
+![ratings_count_sql](https://github.com/lykkelig/Movies-ETL/blob/main/Resources/ratings_sql.png)
+*     The count of movies also matched the rubric:
+![movies_count_sql]https://github.com/lykkelig/Movies-ETL/blob/main/Resources/movies.png
+
+* What a FUN project!!!
